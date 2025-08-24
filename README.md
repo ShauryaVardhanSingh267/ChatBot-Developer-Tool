@@ -1,4 +1,4 @@
-# ChatBot Developer Tool 🤖
+# ChatBot Developer Tool 
 
 A Java-based **ChatBot Developer Tool** that can generate chatbot programs automatically.  
 This was my **largest and most complex coding project** during high school, combining my self-study of **AP Computer Science A (APCSA)** with my growing interest in **AI and chatbots**.
