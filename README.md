@@ -83,13 +83,16 @@ It’s not just a chatbot tool — it’s a **milestone in my coding journey**.
 ## 👤 Author  
 
 **Shaurya Vardhan Singh**  
-- 🎓 High school graduate (ICSE) | APCSA Self-learner  
-- 💻 Passionate about **Computer Science, AI & Chatbots**  
-- 🌍 Applying to study **CS/AI at top global universities**   
+- High school graduate 
+- Self-Studied for Advanced Placement Computer Science Application Exam and score 4/5
+- ICSE Board Class 10- 98.00%. Scored 100/100 in CS 
+- ISC Boar Class 12PCM- 96.00%. Scored 99/100 in CS
+- Passionate about **Computer Science, AI & Chatbots**  
+- Applying to study **CS/AI at top global universities**   
 
 ---
 
-## ⭐ Contribute  
+## Contribute  
 
 If you’d like to improve this project or collaborate on its **web expansion**, feel free to fork the repo and raise a pull request!  
 
